@@ -1,0 +1,15 @@
+/workspaces/AulaEngenharia18/ESAula_18/bin/Debug/net8.0/ESAula_18
+/workspaces/AulaEngenharia18/ESAula_18/bin/Debug/net8.0/ESAula_18.deps.json
+/workspaces/AulaEngenharia18/ESAula_18/bin/Debug/net8.0/ESAula_18.runtimeconfig.json
+/workspaces/AulaEngenharia18/ESAula_18/bin/Debug/net8.0/ESAula_18.dll
+/workspaces/AulaEngenharia18/ESAula_18/bin/Debug/net8.0/ESAula_18.pdb
+/workspaces/AulaEngenharia18/ESAula_18/obj/Debug/net8.0/ESAula_18.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AulaEngenharia18/ESAula_18/obj/Debug/net8.0/ESAula_18.AssemblyInfoInputs.cache
+/workspaces/AulaEngenharia18/ESAula_18/obj/Debug/net8.0/ESAula_18.AssemblyInfo.cs
+/workspaces/AulaEngenharia18/ESAula_18/obj/Debug/net8.0/ESAula_18.csproj.CoreCompileInputs.cache
+/workspaces/AulaEngenharia18/ESAula_18/obj/Debug/net8.0/ESAula_18.sourcelink.json
+/workspaces/AulaEngenharia18/ESAula_18/obj/Debug/net8.0/ESAula_18.dll
+/workspaces/AulaEngenharia18/ESAula_18/obj/Debug/net8.0/refint/ESAula_18.dll
+/workspaces/AulaEngenharia18/ESAula_18/obj/Debug/net8.0/ESAula_18.pdb
+/workspaces/AulaEngenharia18/ESAula_18/obj/Debug/net8.0/ESAula_18.genruntimeconfig.cache
+/workspaces/AulaEngenharia18/ESAula_18/obj/Debug/net8.0/ref/ESAula_18.dll
